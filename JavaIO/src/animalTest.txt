@@ -1,0 +1,24 @@
+Befor ParallelHorse
+After ParallelHorse
+Befor ParallelA
+After ParallelA
+A
+Horse
+Befor ParallelLion
+After ParallelLion
+Lion
+Befor ParallelTiger
+After ParallelTiger
+Tiger
+Befor ParallelC
+After ParallelC
+C
+Befor ParallelRat
+After ParallelRat
+Rat
+Befor ParallelD
+Befor ParallelB
+After ParallelB
+B
+After ParallelD
+D
